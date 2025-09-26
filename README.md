@@ -1,4 +1,4 @@
-# QuikBlog 📝
+# QuikBlog front end 📝
 
 A fast and intuitive blogging platform built for modern content creators.
 
